@@ -1,4 +1,4 @@
-# StrukturData-Q1-2501010052-Bhaskara-A
+# Quiz 1 Struktur Data
 
 ## 1. Karakteristik Memori dan Akses Data
 
